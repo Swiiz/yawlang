@@ -1,0 +1,4 @@
+int main() {
+    // Returns 0 to signal successful program termination
+    return 0;
+}
